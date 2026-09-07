@@ -1,0 +1,6 @@
+{
+  "name": "Reliance Smart Point",
+  "description": "Store website for Reliance Smart Point in Sion West, Mumbai featuring live store busyness, grocery catalog, delivery ordering, and store information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
